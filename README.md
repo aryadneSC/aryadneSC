@@ -63,6 +63,10 @@ Repositório com projetos desenvolvidos durante o curso, organizados por linguag
 
 ---
 
+- GitHub: [@aryadneSC](https://github.com/aryadneSC)
+- LinkedIn: [Aryadne S](https://linkedin.com/in/aryadnes)
+- Email: aryadneslv04@gmail.com
+
 <div align="center">
 
 **Feito com ❤️ e muito ☕ por Aryadne S**
