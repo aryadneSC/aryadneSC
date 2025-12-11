@@ -45,8 +45,6 @@ Email: aryadneslv04@gmail.com
 
 <div align="center">
 
-**Aryadne S**
-
 *2025*
 
 </div>
