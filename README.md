@@ -6,8 +6,6 @@
 #### Apaixonada por criar soluções funcionais e eficientes, inspiradas no perfil **T-shaped**
 #### Atualmente focada em consolidar fundamentos de lógica de programação e dar os primeiros passos em **Programação Orientada a Objetos**.
 
-*"Work smart, not hard"*
-
 [![GitHub](https://img.shields.io/badge/GitHub-aryadneSC-181717?style=for-the-badge&logo=github)](https://github.com/aryadneSC)
 
 </div>
@@ -43,26 +41,6 @@
 
 ---
 
-## 📂 Projetos em Destaque
-
-### **🎓 [Lógica de Programação - SENAI](https://github.com/aryadneSC/logica-programacao-senai)**
-
-Repositório com projetos desenvolvidos durante o curso, organizados por linguagem e complexidade.
-
-#### **📌 Linguagem C:**
-- **[Sistema Index](https://github.com/aryadneSC/logica-programacao-senai/tree/main/01-linguagem-c/cruds/01-index)** - Menu de navegação modular
-- **[CRUD Biblioteca](https://github.com/aryadneSC/logica-programacao-senai/tree/main/01-linguagem-c/cruds/02-biblioteca)** - Sistema completo com busca case-insensitive e filtros
-  - ✨ Cadastro múltiplo de livros
-  - 🔍 Busca por título (não diferencia maiúsculas)
-  - 🏷️ Filtro por status (enum)
-  - 🗑️ Remoção com deslocamento de array
-
-#### **☕ Linguagem Java:**
-- **[Fundamentos Java](https://github.com/aryadneSC/logica-programacao-senai/tree/main/02-linguagem-java/fundamentos)** - Exercícios de sintaxe básica
-- 🎮 **20 Games Challenge** - Em breve!
-
----
-
 <div align="center">
 
 GitHub: [@aryadneSC](https://github.com/aryadneSC)
@@ -71,7 +49,7 @@ Email: aryadneslv04@gmail.com
 
 <div align="center">
 
-**Feito com ❤️ e muito ☕ por Aryadne S**
+**Aryadne S**
 
 *2025*
 
